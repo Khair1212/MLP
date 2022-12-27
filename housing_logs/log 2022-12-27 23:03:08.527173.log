@@ -1,0 +1,10 @@
+[2022-12-27 23:03:08,530]^;WARNING^;224^;_internal.py^;_log()^; * Debugger is active!
+[2022-12-27 23:03:08,541]^;INFO^;224^;_internal.py^;_log()^; * Debugger PIN: 119-906-889
+[2022-12-27 23:03:17,753]^;INFO^;11^;app.py^;index()^;
+        Error occured in script: 
+        [ /Users/khair1212/Documents/Final Year Project/Demo End-to-End/MLP/app.py ] at 
+        try block line number: [8] and exception block line number: [10] 
+        error message: [we are trying to ]
+        
+[2022-12-27 23:03:17,753]^;INFO^;12^;app.py^;index()^;adfadfa
+[2022-12-27 23:03:17,755]^;INFO^;224^;_internal.py^;_log()^;127.0.0.1 - - [27/Dec/2022 23:03:17] "GET / HTTP/1.1" 200 -

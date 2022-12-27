@@ -1,0 +1,6 @@
+[2022-12-27 22:54:51,536]^;INFO^;224^;_internal.py^;_log()^;[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2022-12-27 22:54:51,537]^;INFO^;224^;_internal.py^;_log()^;[33mPress CTRL+C to quit[0m
+[2022-12-27 22:54:51,537]^;INFO^;224^;_internal.py^;_log()^; * Restarting with stat
+[2022-12-27 22:56:29,932]^;INFO^;224^;_internal.py^;_log()^; * Restarting with stat
+[2022-12-27 23:02:59,554]^;INFO^;224^;_internal.py^;_log()^; * Restarting with stat

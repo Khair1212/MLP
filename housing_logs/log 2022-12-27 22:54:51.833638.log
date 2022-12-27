@@ -1,0 +1,3 @@
+[2022-12-27 22:54:51,837]^;WARNING^;224^;_internal.py^;_log()^; * Debugger is active!
+[2022-12-27 22:54:51,846]^;INFO^;224^;_internal.py^;_log()^; * Debugger PIN: 119-906-889
+[2022-12-27 22:56:29,867]^;INFO^;224^;_internal.py^;_log()^; * Detected change in '/Users/khair1212/Documents/Final Year Project/Demo End-to-End/MLP/app.py', reloading
